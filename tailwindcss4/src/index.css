@@ -1,0 +1,9 @@
+/* import the tailwind 4  */
+@import "tailwindcss";
+
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    min-height: 100vh;
+}
+
